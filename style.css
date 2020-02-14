@@ -1,0 +1,50 @@
+.navbar-toggler{
+
+border:none;
+	
+outline:none;
+
+
+}
+
+.navbar-toggler-icon{
+	
+	color: red ;
+	
+}
+
+.navbar-brand img{
+	
+	width:140px;
+	
+	
+}
+
+.navbar-brand {
+	
+	position:absolute;
+	left:50%;
+	transform:translateX(-50%);
+
+    top:10px;	
+	
+}
+
+.navbar{
+	
+padding:1rem 0	!important;
+
+	
+}
+
+.head{
+	
+	padding-left:60px;
+	padding-right:60px;
+}
+.navbar-nav .nav-item{
+	
+	padding: 0 20px;
+	
+	
+}
